@@ -26,8 +26,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chaosgrid.git
-   cd chaosgrid
+   git clone https://github.com/wachinaba/CHAOSGRID.git
+   cd CHAOSGRID
 2. Install Poetry if you haven't already:
    ```bash
    curl -sSL https://install.python-poetry.org | python3 -
