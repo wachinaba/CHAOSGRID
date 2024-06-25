@@ -1,6 +1,6 @@
 # CHAOSGRID: Chaotic Sound Generation
 
-![CHAOSGRID](https://github.com/wachinaba/CHAOSGRID/blob/main/chaosgrid_thumbnail.png)
+[![CHAOSGRID](https://github.com/wachinaba/CHAOSGRID/blob/main/chaosgrid_thumbnail.png)](https://www.youtube.com/watch?v=RRRS9xrbeGQ)
 
 [Watch the demo video on YouTube](https://www.youtube.com/watch?v=RRRS9xrbeGQ)
 
